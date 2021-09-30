@@ -1,0 +1,9 @@
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\CG\obj\Debug\CG.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\CG\obj\Debug\CG.frmPrincipal.resources
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\CG\obj\Debug\CG.Properties.Resources.resources
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\CG\obj\Debug\CG.csproj.GenerateResource.Cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\CG\bin\Debug\CG.exe.config
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\CG\bin\Debug\CG.exe
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\CG\bin\Debug\CG.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\CG\obj\Debug\CG.exe
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\CG\obj\Debug\CG.pdb
